@@ -1,0 +1,245 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    /* CSS rules for smaller screens */
+}
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+body
+{
+	font-family: sans-serif;
+}
+
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar
+{
+	background-image: linear-gradient(to right, #ffffff, #ffffff);
+	padding: 0 !important;
+}
+.navbar-brand img
+{
+	height: 70px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+	color: #cf2030 !important;
+	font-weight: 600;
+	float: right;
+	text-align: left;
+}
+.fa-bars
+{
+	color: #cf2030;
+	font-size: 30px !important;
+}
+.navbat-toggler
+{
+	outline: none !important;
+}
+/*--------------------Banner----------------------*/
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  ;
+}
+#top-banner
+{
+	background-image: linear-gradient(to right, #cf2030, #ff7f7f);
+	color: #fff;
+}
+
+#banner
+{
+	background-image: linear-gradient(to right, #cf2030, #ff7f7f);
+	color: #fff;
+}
+.banner-size
+{
+	width: 100%;
+	height: auto;
+	padding-bottom: 30%;
+	padding-top: 10%;
+}
+.welcome-title
+{
+	font-size: 60px;
+	font-weight: 600;
+}
+.bottom-img
+{
+	width: 100%;
+}
+/*------------------------non-profits------------------------*/
+.title
+{
+	padding-top: 75px;
+}
+.title::after
+{
+	content: '';
+	background: #cf2030;
+	height: 8px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	display: block;
+	transform: translateY(8px);
+}
+.no-decor-text
+{
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+}
+.list-props
+{
+	background-image: linear-gradient(to right, #cf2030, #cf2030);
+}
+
+.np-size
+{
+	width: 100%;
+	height: auto;
+	padding-bottom: 25px;
+}
+.qr-size
+{
+	width: 110px;
+	height: auto;
+	padding-bottom: 25px;
+	padding-top: 15px;
+}
+.btn-padding
+{
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.top-pad
+{
+	padding-top: 100px;
+}
+.bot-pad
+{
+	padding-bottom: 100px;
+}
+.left-right-pad
+{
+	padding-left: 6$
+	padding-right: 6$;
+}
+.pg-break-img
+{
+	width: 100%;
+}
+
+/*--------------------------------Footer----------------------------*/
+.semi-footer-h
+{
+	padding-top: 50px;
+	font-size: 100px;
+	font-weight: bold;
+}
+
+.semi-footer-p
+{
+	font-family: 'Pacifico', cursive;
+	font-size: 26px;
+}
+
+.thankyou-font
+{
+	font-family: 'Pacifico', cursive;
+	font-size: 100px;
+	font-weight: bold;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.pad-top-p
+{
+	padding-left: 20px;
+}
+.font-color
+{
+	color: #cf2030;
+}
+
+
+#contact-us
+{
+	background-image: linear-gradient(to right, #cf2030, #cf2030);
+	color: #fff;
+}
+#contact-us a
+{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 600;
+}
+.bot-padd
+{
+	padding-bottom: 10px;
+}
+.footer-box
+{
+	padding: 20px;
+}
+.footer-box .fa
+{
+	margin-right: 8px;
+	font-size: 25px;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	padding-top: 7px;
+	border-radius: 2px;
+	background-image: linear-gradient(to right, #cf2030, #ff7f7f);
+}
+.padding-left
+{
+	padding-left: 250px !important;
+}
+
+.social-size
+{
+	height: 60px;
+	width: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
